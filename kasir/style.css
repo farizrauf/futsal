@@ -1,0 +1,236 @@
+body {
+    background: #ECF9FF;
+    font-family: sans-serif;
+}
+
+.head{
+    text-align: center;
+    background-image: url(banner.jpg);
+    color: black;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav{
+    background-color: rgb(45, 168, 45);
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;  
+}
+
+.nav ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+
+.nav ul li{
+    float: left;
+    
+}
+
+.nav ul li a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.nav ul li a:hover{
+    text-decoration: underline;
+}
+
+.all{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+}
+
+.box{
+    border-radius: 8px;
+    padding: 20px 20px;
+    margin-top: 20px;
+}
+
+form {
+    padding-left: 500px;
+}
+body {
+    background: #ECF9FF;
+    font-family: sans-serif;
+}
+
+.head{
+    text-align: center;
+    background-image: url(bannner.jpg);
+    color: black;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav{
+    background-color: rgb(45, 168, 45);
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;  
+}
+
+.nav ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+
+.nav ul li{
+    float: left;
+    
+}
+
+.nav ul li a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.nav ul li a:hover{
+    text-decoration: underline;
+}
+
+.all{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+}
+
+.box{
+    border-radius: 8px;
+    padding: 20px 20px;
+    margin-top: 20px;
+}
+
+form {
+    padding-left: 500px;
+}
+body {
+    background: #ECF9FF;
+    font-family: sans-serif;
+}
+
+.head{
+    text-align: center;
+    background-image: url();
+    color: black;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav{
+    background-color: rgb(45, 168, 45);
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;  
+}
+
+.nav ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+
+.nav ul li{
+    float: left;
+    
+}
+
+.nav ul li a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.nav ul li a:hover{
+    text-decoration: underline;
+}
+
+.all{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+}
+
+.box{
+    border-radius: 8px;
+    padding: 20px 20px;
+    margin-top: 20px;
+}
+
+form {
+    padding-left: 500px;
+}
+*{
+    font-family: sans-serif;
+    
+    
+}
+table{
+    border-radius: 3px;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th,td{
+    padding: 10px 20px 10px 20px;
+}
+
+th{
+    background-color: black;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    
+}
+table tr:nth-child(even){
+    background-color: gray;
+}
+table tr:hover{
+    background-color: #ffff99;
+    transition: 0.3s;
+}
+div.kembali a{  
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    
+}
+div.kembali a:hover{
+    background-color: #ffff99;
+    transition: 0.3s;
+    color: black;
+}
